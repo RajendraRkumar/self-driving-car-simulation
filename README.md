@@ -1,8 +1,5 @@
-# self-driving-car-simulation
+# self-driving-car-simulation Steering Control
 A project using Udacity's simulator to implement self-driving car steering angle prediction and hybrid models comparisons.
-
-# Self-Driving Car Steering Control
-
 This project implements a model to predict the steering angle of a self-driving car. It is designed to work with the Udacity self-driving car simulator. The implementation uses Python and is executed within a specific Conda environment named `car`.
 
 ## Overview
