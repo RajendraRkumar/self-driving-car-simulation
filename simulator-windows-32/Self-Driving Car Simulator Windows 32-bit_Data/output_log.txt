@@ -1,0 +1,142 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) Iris(R) Plus Graphics (ID=0x8a52)
+    Vendor:   Intel
+    VRAM:     2072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  3.179 seconds
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 2256x1504 60Hz; virtual: 6264x1866 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.490300 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 15d4 -> priority: 1 
+  Thread -> id: 5bc0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.413300 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.517900 ms (FindLiveObjects: 0.016800 ms CreateObjectMapping: 0.011200 ms MarkObjects: 0.475400 ms  DeleteObjects: 0.012300 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.098500 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 0.974200 ms (FindLiveObjects: 0.075300 ms CreateObjectMapping: 0.041500 ms MarkObjects: 0.352700 ms  DeleteObjects: 0.504000 ms)
+
+Platform assembly: C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.070601 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 3.736100 ms (FindLiveObjects: 0.040700 ms CreateObjectMapping: 0.037300 ms MarkObjects: 0.578500 ms  DeleteObjects: 3.077900 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.551400 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 0.830000 ms (FindLiveObjects: 0.060600 ms CreateObjectMapping: 0.042600 ms MarkObjects: 0.376400 ms  DeleteObjects: 0.349800 ms)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+DirectoryNotFoundException: Could not find a part of the path "C:\Users\kumra\Downloads\car_self_driving\simulator-windows-32\IMG\center_2024_12_29_21_53_33_253.jpg".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream:.ctor (string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int)
+  at System.IO.File.Create (System.String path, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.File.Create (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.File.WriteAllBytes (System.String path, System.Byte[] bytes) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController.WriteImage (UnityEngine.Camera camera, System.String prepend, System.String timestamp) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Vehicles.Car.CarController+<Sample>c__Iterator9.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.583200 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 3.540500 ms (FindLiveObjects: 0.037300 ms CreateObjectMapping: 0.031600 ms MarkObjects: 0.461100 ms  DeleteObjects: 3.009500 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.577600 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 0.989000 ms (FindLiveObjects: 0.068600 ms CreateObjectMapping: 0.041800 ms MarkObjects: 0.433300 ms  DeleteObjects: 0.444600 ms)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.403600 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 4.040900 ms (FindLiveObjects: 0.041600 ms CreateObjectMapping: 0.036700 ms MarkObjects: 0.520800 ms  DeleteObjects: 3.440500 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.155100 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 1.108100 ms (FindLiveObjects: 0.072900 ms CreateObjectMapping: 0.046600 ms MarkObjects: 0.496200 ms  DeleteObjects: 0.491100 ms)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
