@@ -74,7 +74,7 @@ Download and install the Udacity self-driving car simulator from [here](https://
     ```
 
 ### 3. Switch Between Environments
-To ensure the setup works seamlessly, activate the `car` environment before running any scripts:
+activate the `car` environment before running any scripts:
 ```bash
 conda activate car
 ```
