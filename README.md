@@ -87,13 +87,12 @@ conda activate car
 
 
 ## Results
-The trained model achieves autonomous steering predictions based on real-time camera inputs.
+- The trained model achieves autonomous steering predictions based on real-time camera inputs.
 
 ---
 
 ## Acknowledgments
-- The Udacity Self-Driving Car Simulator.
-- Inspiration and guidance from Udacity's Self-Driving Car Nanodegree program.
+- Inspiration and guidance from Udacity.
 
 ---
 
